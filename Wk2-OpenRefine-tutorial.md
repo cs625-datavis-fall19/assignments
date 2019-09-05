@@ -4,7 +4,7 @@ We will be walking through the tutorial available at http://web.archive.org/web/
 
 As we go through the tutorial, I will ask you to perform some extra tasks that we'll discuss together.
 
-First, download [universityData.csv](universityData.csv) to your local machine to load into OpenRefine. 
+First, download [university-data.csv](university-data.csv) to your local machine to load into OpenRefine. 
 
 ### Load file and create project
 
