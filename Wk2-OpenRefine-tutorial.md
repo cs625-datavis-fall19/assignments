@@ -1,4 +1,4 @@
-## Week 2 Open Refine Tutorial
+# Week 2 Open Refine Tutorial
 
 We will be walking through the tutorial available at http://web.archive.org/web/20190105063215/enipedia.tudelft.nl/wiki/OpenRefine_Tutorial up to the section titled "Exploring the data with scatter plots".
 
