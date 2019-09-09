@@ -2,11 +2,11 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 ## Assignments
 
-[HW0](HW0.md) - Personal Intro (due Aug 27) 
+[HW0](HW0.md) - Personal Intro (due Aug 27, Week 1) 
 
-[HW1](HW1.md) - Tool Setup (due Sep 03)
+[HW1](HW1.md) - Tool Setup (due Sep 3, Week 2)
 
-[HW2](HW2.md) - Data Cleaning with OpenRefine (due Sep 10) 
+[HW2](HW2.md) - Data Cleaning with OpenRefine (due Sep 10, Week 3) 
 
 ## Tutorials
 
