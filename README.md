@@ -8,8 +8,12 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW2](HW2.md) - Data Cleaning with OpenRefine (due Sep 10, Week 3) 
 
-## Tutorials
+[HW3](HW3.md) - Arrange Tables (due Oct 1, Week 5)
+
+## Tutorials / In-Class Exercises
 
 Week 2 - [OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)
 
 Week 3 - [Marks and Channels tutorial](Wk3-Marks-Channels-tutorial.md)
+
+Week 4 - [Arrange Tables exercises](Wk4-Arrange-Tables-football.md)
