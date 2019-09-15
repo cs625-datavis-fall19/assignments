@@ -2,7 +2,7 @@
 
 *This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization.*
 
-**Due:** October 1, 2019 *before* 9:30am (two weeks -- *but don't wait until next week to start!*) 
+**Due:** October 1, 2019 *before* 9:30am (two weeks -- *but don't wait until next week to start!*)
 
 The goal of this assignment is to practice choosing and implementing approriate chart idioms based on given data and questions.
 
@@ -10,7 +10,7 @@ The goal of this assignment is to practice choosing and implementing approriate 
 The dataset we will examine comes from [NEST (Norfolk Emergency Shelter Team)](https://www.norfolk.gov/index.aspx?NID=1228), which is a coalition of churches that provides overnight shelter during the winter for adults experiencing homelessness.
 
 [nest-data.csv](nest-data.csv) contains the following fields:  
-* Date - night that shelter was provided (11/29/2017 - 1/16/2018)
+* Date - night that shelter was provided
 * Church - church or pair of churches where shelter was provided, multiple churches are delimited by a "/" character
 * Women - number of women who were provided shelter
 * Men - number of men who were provided shelter
@@ -19,30 +19,23 @@ The dataset we will examine comes from [NEST (Norfolk Emergency Shelter Team)](h
 * Total Demand - sum of Total Guests and Turned Away columns
 
 [nest-weather.csv](nest-weather.csv) contains the following fields:
-* Date - night that shelter was provided (11/29/2017 - 1/16/2018)
+* Date - night that shelter was provided
 * Temp Low - low temperature
 * Precipitation - amount of rain (inches), T = "trace" (less than 0.01 inches)
 * Snow - amount of snowfall (inches), T = "trace" (less than 0.01 inches)
 * Snow Depth - amount of snow on the ground (inches)
 
-[nest-data-full.csv](nest-data-full.csv) contains all of the same fields as nest-data.csv but includes data between 1/17/2018 - 1/30/2018
-
 ## Assignment
 
 ### Part 1 - Using Application
 
-Choose an application (Excel, Google Sheets, or Tableau) to explore and, using the data from 11/29/2017 - 1/16/2018, create a chart for each of the following questions:
+Choose an application (Excel, Google Sheets, or Tableau) to explore the dataset and create a chart for each of the following questions:
 
 1. What was the breakdown of women vs. men who were provided shelter each night?
 1. In total, how many guests were provided shelter by each church (or pair of churches)?
 1. Is total demand for shelter affected by weather?
 
 Pay attention to detail and the visualization principles we have discussed in class when designing your charts.  Each of your charts should have the same look and feel. In your report (see below), you will describe the design decisions you have made, so take notes along the way as you work through your design process. 
-
-#### Data Validation
-Once you have created a chart for each of the questions, take a look at the data in [nest-data-full.csv](nest-data-full.csv). This includes data for the last 2 weeks of the NEST season.  
-
-Explain any anomalies you find with the last 2 weeks of data.
 
 ### Part 2 - Using Programming Language/API
 Re-create each chart from Part 1 in either R or Vega-Lite.  Strive to have both sets of charts look as similar as possible.
@@ -78,7 +71,6 @@ Other items to include:
   * justify the choice of the chart idiom based on the data
   * describe the design decisions you made in creating the chart
   * describe how the chart you created answers one of the initial questions 
-* explanation from the Data Validation section
 * describe any elements that you could not replicate between the application (Excel, Google Sheets, Tableau) versus programming language/API (R, Vega-Lite) charts
 * compare your experience of using an application versus a programming language/API to implement the charts
 * list of references - links to any examples that you used in completing this assignment
