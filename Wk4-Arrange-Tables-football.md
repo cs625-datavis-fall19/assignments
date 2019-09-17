@@ -8,8 +8,8 @@ The goal of this exercise is to gain experience thinking about data types and pr
   * data items and marks used to encode those data items
   * data attributes, their data types, and the channels used to encode those attributes
 * Sketch what the chart might look like (you don't have to include exact data points)
-* Take a picture of the sketch and post to the appropriate thread in Piazza. Make sure to indicate who your group members were. 
-  * There will be one thread for each question and all threads will be tagged with `wk4-exercise`. 
+* Take a picture of the sketch and post a "followup discussion" to the appropriate note in Piazza. Make sure to indicate who your group members were. 
+  * There will be one note for each question and all will be tagged with `wk4-exercise`. 
   * You are encouraged to comment and ask questions about your classmates' submissions.
 
 ## Exercise
