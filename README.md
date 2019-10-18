@@ -19,3 +19,5 @@ Week 2 - [OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)
 Week 3 - [Marks and Channels tutorial](Wk3-Marks-Channels-tutorial.md)
 
 Week 4 - [Arrange Tables exercises](Wk4-Arrange-Tables-football.md)
+
+Week 5 - [Arrange Tables examples](Wk5-Arrange-Tables-examples.md)
