@@ -12,6 +12,9 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW4](HW4.md) - Recreate Charts (due Oct 22, Week 8)
 
+[HW5](HW5.md) - Create Distribution Charts (due Oct 29, Week 9)
+
+
 ## Tutorials / In-Class Exercises
 
 Week 2 - [OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)
@@ -21,3 +24,7 @@ Week 3 - [Marks and Channels tutorial](Wk3-Marks-Channels-tutorial.md)
 Week 4 - [Arrange Tables exercises](Wk4-Arrange-Tables-football.md)
 
 Week 5 - [Arrange Tables examples](Wk5-Arrange-Tables-examples.md)
+
+Week 8 - [Reading Distributions exercises](Wk8-Reading-Distributions.md)
+
+Week 9 - [Data Transformations in R exercises](Wk9-Data-Transformations.md)
