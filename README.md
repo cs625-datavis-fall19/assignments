@@ -16,6 +16,7 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW6](HW6.md) - Data Exploration in R (due Nov 5, Week 10)
 
+[HW7](HW7.md) - Generating Questions from Real-World Data (due Nov 19, Week 12)
 
 ## Tutorials / In-Class Exercises
 
@@ -30,3 +31,5 @@ Week 5 - [Arrange Tables examples](Wk5-Arrange-Tables-examples.md)
 Week 8 - [Reading Distributions exercises](Wk8-Reading-Distributions.md)
 
 Week 9 - [Data Transformations in R exercises](Wk9-Data-Transformations.md)
+
+Week 10 - [Storytelling In-Class Exercises/Tutorial](Wk10-Storytelling.md)
