@@ -1,5 +1,7 @@
 # Homework 7: Generating Questions from Real-World Data
 
+*This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization.*
+
 **Due:** November 19, 2019 *before* 9:30am (2 weeks)
 
 The goal of this assignment is to use EDA techniques to generate questions from a dataset(s) and propose charts to address those questions. 
