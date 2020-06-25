@@ -18,6 +18,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 62
 
 [HW7](HW7.md) - Generating Questions from Real-World Data (due Nov 19, Week 12)
 
+[HW8](HW8.md) - Refine Chart (due Nov 26, Week 13)
+
 ## Tutorials / In-Class Exercises
 
 Week 2 - [OpenRefine tutorial](Wk2-OpenRefine-tutorial.md)
